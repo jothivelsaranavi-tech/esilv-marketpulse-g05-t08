@@ -10,8 +10,8 @@ Copy this file to `TEAM.md` in your team repository and complete it before start
 
 ## Members
 
-| Student 1 | @github-user-1 |
-| Student 2 | @github-user-2 |
+| Saranavi | @jothivelsaranavi |
+| Ahmed | @ahmedben4 |
 
 
 ## Repository
